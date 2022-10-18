@@ -1,4 +1,4 @@
-module github.com/muety/caddy-remote-host
+module github.com/surkum/caddy-remote-host
 
 go 1.16
 
