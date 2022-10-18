@@ -28,6 +28,8 @@ Match requests from a client, whose IPv4 or IPv6 address is the same as what `dd
 remote_host ddns.example.org
 ```
 
+**Fork for testing: use github.com/muety/caddy-remote-host**
+
 ## License
 
 Apache 2.0
